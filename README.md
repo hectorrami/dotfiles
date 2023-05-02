@@ -21,7 +21,7 @@ How I setup my dotfiles on MacOS and Linux
 ## Setting up MacBook
 Download my dotfiles to your home directory
 ```
-git clone https://github.com/alexsonnysar/dotfiles.git
+git clone https://github.com/hectorrami/dotfiles.git 
 ```
 
 ## Brewfile
