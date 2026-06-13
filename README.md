@@ -19,9 +19,9 @@ How I setup my dotfiles on MacOS and Linux
 - [Powerlevel10k](https://github.com/romkatv/powerlevel10k)
 
 ## Setting up MacBook
-Download my dotfiles to your home directory
+Clone my dotfiles into your home directory
 ```
-git clone https://github.com/hectorrami/dotfiles.git 
+git clone https://github.com/hectorrami/dotfiles.git ~/dotfiles
 ```
 
 ## Brewfile
