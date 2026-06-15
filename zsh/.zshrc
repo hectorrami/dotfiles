@@ -117,8 +117,6 @@ source $ZSH/oh-my-zsh.sh
 # --- Personal ---
 # Add my personal scripts/binaries to PATH so they're runnable by name
 export PATH="$HOME/.local/bin:$PATH"
-# Run my stock script (requires ~/scripts/stock.py)
-alias stock="python3 ~/scripts/stock.py"
 
 export NVM_DIR="$HOME/.nvm"
   [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
