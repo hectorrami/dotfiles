@@ -1,3 +1,7 @@
 [user]
 	name = hectorrami
-	email = 37157448+hectorrami@users.noreply.github.com
+	email = hectorramirez096@gmail.com
+	# Privacy-friendly alternative for public pushes (GitHub no-reply):
+	# email = 37157448+hectorrami@users.noreply.github.com
+[http]
+	postBuffer = 524288000

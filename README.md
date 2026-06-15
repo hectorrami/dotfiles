@@ -1,7 +1,6 @@
 # dotfiles <!-- omit in toc -->
 
 How I setup my dotfiles on MacOS and Linux
-![MacOS Terminal](terminal.png)
 
 ## Table of Contents <!-- omit in toc -->
 - [Installation](#installation)
@@ -42,5 +41,4 @@ stow [folder]
 ```
 
 The following files in purple are symlinks from the actual files located within `~/dotfiles`. This may also be shown as an arrow depending on your terminal configuration
-![MacOS Terminal](symlinks.png)
 
