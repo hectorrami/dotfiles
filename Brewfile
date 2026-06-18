@@ -4,7 +4,7 @@ tap "homebrew/services"
 # User-friendly command-line shell for UNIX-like operating systems
 brew "fish"
 # Fast, highly customisable system info script
-brew "neofetch"
+brew "fastfetch"
 # Open-source, cross-platform JavaScript runtime environment
 brew "node"
 # Manage multiple Node.js versions
@@ -38,7 +38,7 @@ cask "microsoft-edge"
 # App to write, plan, collaborate, and get organized
 cask "notion"
 # Run and chat with large language models locally
-cask "ollama"
+cask "ollama-app"
 # Collaboration platform for API development
 cask "postman"
 # Remote play for PlayStation consoles
