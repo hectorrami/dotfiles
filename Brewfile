@@ -25,6 +25,8 @@ cask "copilot-money"
 cask "discord"
 # Hack font patched with Nerd Font icons and glyphs
 cask "font-hack-nerd-font"
+# Fast, native, GPU-accelerated terminal emulator
+cask "ghostty"
 # Multi-platform web browser
 cask "google-chrome"
 # JetBrains IDE for Java and other languages
